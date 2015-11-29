@@ -1,0 +1,24 @@
+div
+{
+	color:#913700;
+	border: solid 2px #FFA500;
+	border-radius:5px;
+	width:450px;
+	height:350px;
+	padding:8px;
+	background:#FFFEBD;
+}
+.button
+{
+	background:green;
+	color:white;
+	border:green;
+    height:30px;
+}
+.buttone
+{
+	background:#FFA500;
+	color:white;
+	border:#FFA500;
+    height:30px;
+}

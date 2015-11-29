@@ -1,0 +1,26 @@
+ table  
+ {
+  width:100%; 
+  color:black;
+  border:solid #C7C5B0;
+  font:Lucida;
+  font-size: 20px;
+  border-collapse: collapse;
+ }
+ tr
+ {
+ border: 1px solid #dcdcdc;
+ }
+ td
+ {
+ border-left:1px solid #C7C5B0;
+ }
+ #header
+ {
+  background:#00bd19;
+  color:white;
+ }
+ .color
+ {
+  background:#dcdcdc;
+ }

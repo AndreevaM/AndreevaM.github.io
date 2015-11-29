@@ -1,0 +1,32 @@
+table
+{
+	text-align: 100%;
+	border:2px outset white;
+	background:white;
+    padding:8px;
+   
+}
+td
+{
+	
+	background:#F8F8FF;
+	
+}
+tr
+{
+    border-radius: 10px
+}
+.width
+{
+	width: 100%;
+}
+.button 
+{ 
+	width: 60px; 
+	height : 40px; 
+	font-family: verdana;
+    font-size: 20px; 
+    font-weight: 500;
+    border-radius: 5px;
+    background-image:url("task5.png");
+}
