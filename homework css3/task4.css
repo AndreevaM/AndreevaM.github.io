@@ -1,0 +1,23 @@
+.transform1 {
+	width: 200px;
+	height: 200px;
+	background: black;
+    color:white;
+    webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    margin-left: 90px;
+
+}
+
+.transform2 {
+	width: 200px;
+	height: 200px;
+	background: red;
+    transform: skew(20deg);
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+    color:white;
+    transform-text: rotate(90deg);
+}
+

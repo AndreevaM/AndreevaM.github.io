@@ -1,0 +1,37 @@
+﻿.borderImage
+{
+	width: 300px;
+	margin:300px auto;
+	border: 200px;
+	border-image:url(Donald_Duck.svg.png);
+	text-align: center 20px;
+	text-shadow:0 0 3px #FF0000, 0 0 5px #0000FF;
+	font-size: 70px;
+	background: yellow, green;
+	background: background: linear-gradient(direction, color-stop1, color-stop2);
+
+
+
+}
+
+
+.rounded-corners
+{
+	width:200px;
+	height:200px;
+	margin:300px auto;
+	padding:60px;
+	border-radius:100%;
+	background:green;
+	text-align: center;
+}
+.rounded-corners2
+{
+	width:300px;
+	height:200px;
+	margin:300px auto;
+	padding:50px;
+	background: orange;
+	border-radius: 15px 50px 30px;
+	text-align: center;
+}

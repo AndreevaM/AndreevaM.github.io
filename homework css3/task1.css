@@ -1,0 +1,28 @@
+
+.round
+{
+	border:solid 1px #999999;
+	border-radius: 40px;
+	background: #999999;
+	height: 50px;
+	width: 90px;
+	
+}
+.Name
+{
+border:solid 1px;
+border-radius: 3px;
+height: 20px;
+width: 140px;
+color:black;
+}
+article 
+{
+	border:solid 1px;
+	background: #DDDDDD;
+	padding: 20px;
+	margin: 40px 900px 40px 30px;
+}
+#Margin {
+	margin-top:25px;
+}
