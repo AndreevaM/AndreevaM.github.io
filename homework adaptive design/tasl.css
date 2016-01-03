@@ -1,0 +1,60 @@
+body 
+{
+  height:auto;
+  overflow: scroll;
+}
+
+.logo
+{
+	background: #555555;
+	color: white;
+  text-indent:50px;
+  font-size: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+nav{
+	background:black;
+	color: white;
+	text-indent:50px;
+  line-height: 40px;  
+}
+
+.heading
+{
+  text-align:left;
+}
+
+
+  .img-responsive 
+  {
+    max-width: 100%;
+  }
+
+ 
+footer
+	{
+  background:black;
+	color: white; 
+  margin-top:20px;
+  text-indent:50px;
+  line-height: 50px;
+	}
+
+.nav-link, .nav-link:visited
+{
+  text-decoration: none;
+  color:white;
+  margin-right: 10px;
+}
+
+
+@media screen {
+  * { max-width: 1200px }
+}
+
+

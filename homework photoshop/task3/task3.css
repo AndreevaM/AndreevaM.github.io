@@ -1,0 +1,17 @@
+.button{
+	height: 40px;
+	width: 220px;
+    background-image:url("img.png");
+    border-radius:100px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border:#086c9d;
+}
+.element{
+	height: 20px;
+	width: 20px;
+	float: right;
+}

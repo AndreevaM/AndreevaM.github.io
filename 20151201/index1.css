@@ -1,4 +1,4 @@
-﻿.borderImage
+.borderImage
 {
 	width: 300px;
 	margin:300px auto;
@@ -7,7 +7,6 @@
 	text-align: center 20px;
 	text-shadow:0 0 3px #FF0000, 0 0 5px #0000FF;
 	font-size: 70px;
-	background: yellow, green;
 	background: background: linear-gradient(direction, color-stop1, color-stop2);
 
 

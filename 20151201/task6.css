@@ -2,10 +2,10 @@
 @keyframes example1 
 {
  background-color:yellow; left:0px; top:0px;}
-    /*25%  {background-color:green; left:200px; top:0px;}
+    25%  {background-color:green; left:200px; top:0px;}
     50%  {background-color:red; left:200px; top:200px;}
     75%  {background-color:orange; left:0px; top:200px;}
-    100% {background-color:blue; left:0px; top:0px;}*/
+    100% {background-color:blue; left:0px; top:0px;}
 }
 .animation1
  {
