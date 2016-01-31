@@ -1,0 +1,23 @@
+#div1{
+	width: 80px;
+	height: 80px;
+	display: none;
+	background: yellow;
+	margin-bottom: 10px;
+}
+
+#div2{
+	width: 80px;
+	height: 80px;
+	display: none;
+	background: blue;
+	margin-bottom: 10px;
+}
+
+#div3{
+	width: 80px;
+	height: 80px;
+	display: none;
+	background: green;
+	margin-bottom: 10px;
+}
