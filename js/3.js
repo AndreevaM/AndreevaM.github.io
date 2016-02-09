@@ -6,7 +6,4 @@ function myFunction() {
 			else 
 				{console.log("no");}
 		}
-		else {
-			console.log ("no");
-		}
 	}
